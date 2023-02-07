@@ -1,6 +1,5 @@
 package com.vent.productservice;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mongodb.assertions.Assertions;
 import com.vent.productservice.dto.ProductRequest;

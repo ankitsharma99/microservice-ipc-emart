@@ -1,6 +1,5 @@
 package com.vent.orderservice.dto;
 
-import com.vent.orderservice.model.OrderLineItems;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

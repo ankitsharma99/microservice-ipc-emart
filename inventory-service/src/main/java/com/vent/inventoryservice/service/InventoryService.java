@@ -3,14 +3,11 @@ package com.vent.inventoryservice.service;
 import com.vent.inventoryservice.dto.InventoryResponse;
 import com.vent.inventoryservice.repository.InventoryRepository;
 import lombok.RequiredArgsConstructor;
-import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
-
-import static java.util.stream.Collectors.toList;
 
 @Service
 @RequiredArgsConstructor
